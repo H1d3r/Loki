@@ -13,7 +13,7 @@
   "license": "BSL",
   "description": "Node.js Command & Control for Script-Jacking Vulnerable Electron Applications",
   "devDependencies": {
-    "electron": "^31.1.0",
+    "electron": "^38.0.0",
     "electron-builder": "^25.1.8"
   },
   "build": {
